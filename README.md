@@ -5,6 +5,8 @@ https://autoprefixer.github.io/ <br/>
 https://www.cssscript.com/ <br/>
 https://www.jqueryscript.net/ <br/>
 https://iconscout.com/icon-editor <br/>
+https://getwaves.io/ <br/>
+https://www.svgwaves.io/ <br/>
 https://cssgrid-generator.netlify.app/ <br/>
 https://w3bits.com/tools/masonry-generator/ <br/>
 https://triangle.designyourcode.io/ <br/>
